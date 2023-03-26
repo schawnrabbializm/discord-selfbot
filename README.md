@@ -10,4 +10,4 @@ Her önüne gelen botçuyum diye gezinmemesi için kodların içinde çok küç�
 - CMD ye `pip install -r requirements.txt` yazıyoruz.
 - Modüller indikten sonra `python3 main.py` yazıyoruz.
 
-- iyi Eğlenceler
+- İyi Eğlenceler
