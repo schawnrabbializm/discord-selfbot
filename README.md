@@ -9,5 +9,6 @@ Her önüne gelen botçuyum diye gezinmemesi için kodların içinde çok küç�
 - `config` dolduruyoruz.
 - CMD ye `pip install -r requirements.txt` yazıyoruz.
 - Modüller indikten sonra `python3 main.py` yazıyoruz.
+- Giriş yaptıktan sonra `.schawncim` yazarak yardım menüsünü görebiliriz.
 
 - İyi Eğlenceler
